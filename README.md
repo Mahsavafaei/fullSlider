@@ -1,5 +1,6 @@
 This is a front-end task. 
 It’s made of React.js component with Tailwind.css responsive.
+Swiper library is used => https://swiperjs.com
 Is placed on the TUT company website ( Landing page ) to url: https://tutlearning.com .
 
 
